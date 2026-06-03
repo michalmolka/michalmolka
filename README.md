@@ -1,5 +1,9 @@
 ## Featured Repositories
 
+### python_llm_code
+
+Conde snippets regarding working with LLMs.
+
 ### ms_fabric_inventory
 
 A .NET 9 and Blazor application for inventorying Microsoft Fabric and Power BI assets.

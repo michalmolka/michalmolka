@@ -39,5 +39,5 @@ The notebooks cover data engineering topics across Microsoft Fabric, Databricks,
 
 I also publish technical articles on Medium and LinkedIn:
 
-[medium.com/@michalmolka](https://medium.com/@michalmolka)
+[medium.com/@michalmolka](https://medium.com/@michalmolka)  
 [https://www.linkedin.com/in/michal-molka/](https://www.linkedin.com/in/michal-molka/)

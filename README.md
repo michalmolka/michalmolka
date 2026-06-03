@@ -2,7 +2,7 @@
 
 ### python_llm_code
 
-Conde snippets regarding working with LLMs.
+Code snippets for working with LLMs
 
 ### ms_fabric_inventory
 

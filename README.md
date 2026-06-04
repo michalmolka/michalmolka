@@ -25,6 +25,11 @@ A Python application built primarily with LangGraph for AI-assisted data analysi
 
 The app processes user questions, analyzes data stored in Microsoft Fabric, and returns a response tailored to the prompt. Depending on the request, it can generate a written summary, visualizations, and tables to help users explore and understand their data more naturally.
 
+![Prompt01](images/ai-data-analyzer-01.png)
+
+
+![Prompt02](images/ai-data-analyzer-02.png)
+
 ### dotnet
 
 C# code snippets used in articles published on [Medium](https://medium.com/@michalmolka).

@@ -2,7 +2,16 @@
 
 ### python_llm_code
 
-Code snippets for working with LLMs
+Code snippets for working with LLMs. E.g.
+- structured output
+- tools calling
+- mcp server
+- fine-tuning
+- LangGraph
+- simple LLM call + HuggingFace
+- RAG
+- log probs (LM Studio)
+- neo4j database
 
 ### ms_fabric_inventory
 

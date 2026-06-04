@@ -17,7 +17,8 @@ Code snippets for working with LLMs. E.g.
 
 A .NET 9 and Blazor application for inventorying Microsoft Fabric and Power BI assets.
 
-The app focuses on collecting and organizing metadata across capacities, workspaces, datasets, reports, lakehouses, warehouses, and related Fabric resources. It is designed to help teams better understand their analytics estate, track assets, and support governance or operational reviews.
+The app focuses on collecting and organizing metadata across capacities, workspaces, datasets, reports, lakehouses, warehouses, and related Fabric resources. It is designed to help teams better understand their analytics estate, track assets, and support governance or operational reviews. 
+AI mode for generating Event House KQL queries based on user prompt.
 
 ### ai_data_analyzer
 

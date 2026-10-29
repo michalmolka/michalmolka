@@ -20,12 +20,6 @@ A .NET 9 and Blazor application for inventorying Microsoft Fabric and Power BI a
 The app focuses on collecting and organizing metadata across capacities, workspaces, datasets, reports, lakehouses, warehouses, and related Fabric resources. It is designed to help teams better understand their analytics estate, track assets, and support governance or operational reviews. 
 AI mode for generating Event House KQL queries based on user prompt.
 
-### ai_data_analyzer
-
-A Python application built primarily with LangGraph for AI-assisted data analysis.
-
-The app processes user questions, analyzes data stored in Microsoft Fabric, and returns a response tailored to the prompt. Depending on the request, it can generate a written summary, visualizations, and tables to help users explore and understand their data more naturally.
-
 
 ### dotnet
 
@@ -51,8 +45,6 @@ The notebooks cover data engineering topics across Microsoft Fabric, Databricks,
 
 
 ## Writing
-
-I also publish technical articles on Medium and LinkedIn:
 
 [medium.com/@michalmolka](https://medium.com/@michalmolka)  
 [https://www.linkedin.com/in/michal-molka/](https://www.linkedin.com/in/michal-molka/)
